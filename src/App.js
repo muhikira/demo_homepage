@@ -6,7 +6,9 @@ function App(){
         <header className="App-header">
             <p>Welcome to my website</p>
             <h2> Hi I Am Ishmael</h2>
-            <h5> I am SOftware Developer</h5>
+        <h2> Hi I Am living in the USA</h2>
+       
+            <h5> I am Software Developer</h5>
             <hr/>
             <ContactMe/>
         </header>
